@@ -15,7 +15,6 @@ The project is all about learning the pytorch and build a CNN from scratch. In t
 
 	Python 3.5+ , pytorch 1.0+, torchvision 0.6+, facenet_pytorch
 
-## Project Instructions
 
 ### Instructions
 
